@@ -12,4 +12,4 @@ The integration between Line Official Account and Google Sheet uses the services
 
 ## Snapshot
 - `Technology`<br>
-<img src="/Image Source/1.png" alt="First">
+<img src="/Image Source/1.jpg" alt="First">
