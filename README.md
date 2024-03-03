@@ -8,4 +8,4 @@
 The integration between Line Official Account and Google Sheet uses the services provided by "Make"
 <br>
 <h2> Make Integration source</h2>
-- [Click Here]([https://www.canva.com/design/DAFgW0Diq-o/daRmALqTb5lbsXTIKKOspA/edit?utm_content=DAFgW0Diq-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.make.com/en)https://www.make.com/en)
+- [Click Here]([https://www.make.com/en])
