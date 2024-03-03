@@ -9,3 +9,7 @@
 ## Make Integration Source
 The integration between Line Official Account and Google Sheet uses the services provided by "Make".
 [<button>Click Here</button>](https://www.make.com/en)
+
+## Snapshot
+- `Technology`<br>
+<img src="/Image Source/1.png" alt="First">
