@@ -6,7 +6,6 @@
 
 🥰 Feel free to explore the QR code generation [here](https://github.com/J1gsaww/QRCode-Generation-for-user-information.git).
 
-The integration between Line Official Account and Google Sheet uses the services provided by "Make".
-
 ## Make Integration Source
+The integration between Line Official Account and Google Sheet uses the services provided by "Make".
 [<button>Click Here</button>](https://www.make.com/en)
