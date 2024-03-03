@@ -12,14 +12,14 @@ The integration between Line Official Account and Google Sheet uses the services
 
 ## Snapshot
 - `Overall`<br>
-<img src="/Image Source/1.jpg" alt="Overall">
+<img height="1200" weight="675" src="/Image Source/1.jpg" alt="Overall">
 
 - `Webhook`<br>
-<img src="/Image Source/2.jpg" alt="Webhook">
+<img height="1200" weight="675" src="/Image Source/2.jpg" alt="Webhook">
 
 - `Google Sheet Processing`<br>
-<img src="/Image Source/3.jpg" alt="GGP">
+<img height="1200" weight="675" src="/Image Source/3.jpg" alt="GGP">
 
 - `Reply back to users`<br>
-<img src="/Image Source/4.jpg" alt="Reply">
+<img height="1200" weight="675" src="/Image Source/4.jpg" alt="Reply">
 
